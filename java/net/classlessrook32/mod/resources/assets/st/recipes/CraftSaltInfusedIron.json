@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SFS",
+        "FIF",
+        "SFS"
+                    
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "st:item_salt"
+        },
+        
+        "F":
+        {
+            "item": "st:item_salt_fragment"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "st:ingot_salt_infused_iron",
+        "count": 1
+    }
+}

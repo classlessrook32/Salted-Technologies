@@ -1,0 +1,35 @@
+
+//items
+item.item_salt.name=Salt
+item.item_salt_water.name=Salt Water
+item.ingot_salt_infused_iron.name=Salt Infused Iron Ingot
+item.item_salt_fragment.name=Salt Fragment
+
+//creative tabs
+itemGroup.stTab=Salted Technologies
+
+//blocks
+tile.block_salt_block.name=Salt Block
+tile.block_salt_block_brick.name=Salt Block Brick
+
+//armor and tools
+item.excavator_infused_iron.name=Infused Iron Excavator
+item.hatchet_infused_iron.name=Infused Iron Hatchet
+item.plough_infused_iron.name=Infused Iron Plough
+item.trowel_infused_iron.name=Infused Iron Trowel
+item.blade_infused_iron.name=Infused Iron Blade
+
+item.breastplate_infused_iron.name=Infused Iron BreastPlate
+item.cap_infused_iron.name=Infused Iron Cap
+item.trowser_infused_iron.name=Infused Iron Trowser
+item.galosh_infused_iron.name=Infused Iron Galosh
+
+/gui
+container.salt_distillery_unit=Salt Distillery Unit
+
+
+
+\\redacted
+item.sugarapple.name=Sugar Apple
+
+

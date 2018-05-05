@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "W"
+                     
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    
+    "result":
+    {
+        "item": "st:item_salt_water",
+        "count": 2
+    }
+}

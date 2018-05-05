@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "S"      
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "st:item_salt"
+        }
+    },
+    
+    "result":
+    {
+        "item": "st:item_salt_fragment",
+        "count": 8
+    }
+}

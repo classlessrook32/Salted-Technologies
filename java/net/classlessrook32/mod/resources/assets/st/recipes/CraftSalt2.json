@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+        
+        
+                    
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "st:block_salt_block"
+        }
+        
+      
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "st:item_salt",
+        "count": 4
+    }
+}

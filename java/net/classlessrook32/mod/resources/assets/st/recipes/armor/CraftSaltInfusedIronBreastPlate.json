@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "S S",
+        "SSS",
+        "SSS"
+        
+                    
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "st:ingot_salt_infused_iron"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "st:breastplate_infused_iron",
+        "count": 1
+    }
+}

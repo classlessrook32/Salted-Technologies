@@ -1,0 +1,16 @@
+[
+{
+  "modid": "st",
+  "name": "Salted Technologies",
+  "description": "this mod is based around salt",
+  "version": "v1.0",
+  "mcversion": "v1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Classlessrook32"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

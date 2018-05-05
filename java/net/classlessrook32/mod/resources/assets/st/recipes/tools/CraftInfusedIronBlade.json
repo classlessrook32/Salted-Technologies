@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "I",
+        "S"
+        
+                    
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "st:ingot_salt_infused_iron"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "st:blade_infused_iron",
+        "count": 1
+    }
+}

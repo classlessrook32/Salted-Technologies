@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SS",
+        "SS"
+        
+             
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "st:block_salt_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "st:block_salt_block_brick",
+        "count": 4
+    }
+}

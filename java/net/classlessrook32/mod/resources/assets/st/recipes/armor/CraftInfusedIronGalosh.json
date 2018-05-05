@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "S S",
+        "S S"
+        
+                    
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "st:ingot_salt_infused_iron"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "st:galosh_infused_iron",
+        "count": 1
+    }
+}
